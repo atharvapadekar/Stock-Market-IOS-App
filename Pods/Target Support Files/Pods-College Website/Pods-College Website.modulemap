@@ -1,0 +1,6 @@
+framework module Pods_College_Website {
+  umbrella header "Pods-College Website-umbrella.h"
+
+  export *
+  module * { export * }
+}
